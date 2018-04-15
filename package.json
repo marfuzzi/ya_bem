@@ -9,7 +9,6 @@
     "cookie-parser": "~1.4.3",
     "express": "~4.16.0",
     "express-useragent": "^1.0.12",
-    "ngrok": "^3.0.1",
     "serve-favicon": "^2.5.0"
   }
 }
